@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Local runtime data
+settings.json
+*.local.json
+
+# Distribution / packaging
+build/
+dist/
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
